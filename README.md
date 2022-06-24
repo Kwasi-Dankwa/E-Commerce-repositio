@@ -106,6 +106,14 @@ THEN I am able to successfully create, update, and delete data in my database
 ### Packages and Techologies used
 -Node.js, JS, MYSQL2, sequelize, dotenv, Insomnia
 
+### Steps to Test Application routes in Insomnia core
+```
+-Install dependencies(MYSQL2, SEQUELIZE and DOTENV)
+-mysql -u root -p
+-source ./db/schema.sql
+-npm run seed
+```
+
 ### Developer
 Kwasi Dankwa
 email - edankwa14@gmail.com
