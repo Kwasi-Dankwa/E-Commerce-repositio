@@ -111,9 +111,16 @@ THEN I am able to successfully create, update, and delete data in my database
 -Install dependencies(MYSQL2, SEQUELIZE and DOTENV)
 -mysql -u root -p
 -source ./db/schema.sql
+-npm run start
 -npm run seed
 ```
 
 ### Developer
 Kwasi Dankwa
 email - edankwa14@gmail.com
+
+### Walkthrough video link
+- https://drive.google.com/file/d/1ylFIqri_3eonx9QXtZW9pkWJImXvb9CX/view
+
+### SCREENSHOT OF INSOMNIA TEST
+image.png
