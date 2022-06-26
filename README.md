@@ -1,7 +1,5 @@
 # E-commerce Back End Starter Code
-Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
-
-Your challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+My challenge was to build the back end for an e-commerce site. I  took a working Express.js API and configured it to use Sequelize to interact with a MySQL database. This app was built using JavaScript. By the end of this project I was able to deeply understand constructing databases and create relationships between them(associations).
 
 ## User Story
 ```
